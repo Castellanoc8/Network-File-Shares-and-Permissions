@@ -27,24 +27,56 @@ This tutorial outlines sharing resources over the network and creating file shar
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/k5Tg7hU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p>
+<img src="https://i.imgur.com/N9UvEsD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/ZsCv0h4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/HqfQoMH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FCfdd3Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p>
+<img src="https://i.imgur.com/cImTEaV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Io9T9Lw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<p>
+<img src="https://i.imgur.com/1IDLxhi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/P16gW0I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/aVqY2UW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <p>
 It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
 </p>
