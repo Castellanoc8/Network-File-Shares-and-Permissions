@@ -43,7 +43,7 @@ This tutorial outlines sharing resources over the network and creating file shar
 </p>
 <p>
 
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+In this lab, I worked with Network File Shares and Permissions, also I used the same DC-1 and Client-1 Remote Desktops I created in the previous labs. First, I went into DC-1 and on the c:\drive, I created 4 new folders. I named these 4 new folders, "read-access", "write-access", "no-access", and "accounting". Next, I had to set each folders group to either "Domain Users" or "Domain Admins". Also, I had to set their permissions to either "Read" or "Read/Write". For the folder "read-access", I set the group to "Domain Users" with the permission "Read". After, for the folder "write-access", I set the group to "Domain Users" with the permission "Read/Write". And lastly, for the folder "no-access", I set the group to "Domain Admins" with the permission "Read/Write".
 </p>
 <br />
 
@@ -56,7 +56,7 @@ It is important to take care of the patient, to be followed by the doctor, but i
 </p>
 <p>
 
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+In the next part of this lab, I attempted to access file shares as a Normal User. I did that by logging into Client-1 Remote Desktop and navigating to the shared folder (start, run, \\dc-1). While here, I went through each folder I previously created to see which folders I had access to. Some of the folders allowed me in while others blocked me out since I didnt have the permissions to access them.
 </p>
 <br />
 
@@ -78,6 +78,6 @@ It is important to take care of the patient, to be followed by the doctor, but i
 <p>
 
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+The last step of this lab, I created a Security Group called "ACCOUNTANTS", assigned it permissions, and then tested out its access. I did this by first going into DC-1's Remote Desktop and went back into Active Directory. Here I created the "ACCOUNTANTS" Security group. Next, I went into the "accounting" folder I created in the first part of this lab and changed its group/permissions to the group "ACCOUNTANTS", and its permisisons to "Read/Write". After doing that step, I went back into Client-1 and tried to access the accounts folder but had no success. There was no access at this point because I had not added a member to the "ACCOUNTANTS" security group yet. So to be able to access the "accounting folder", I had to first log out of Client-1's Remote Desktop and go back into DC-1. Once I was back in DC-1, I grabbed one of the random user accounts I created earlier in another lab and added that user to the "ACCOUNTANTS" security group. Lastly, I signed into Client-1's Remote Desktop with the random users account I selected credentials and tried to access the "accounting" folder. This time I had success in accessing the "accounting" folder since the random user account I was using had permissions to access the folder.
 </p>
 <br />
