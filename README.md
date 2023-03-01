@@ -3,7 +3,7 @@
 </p>
 
 
-<h1>Building Intuition for DNS</h1>
+<h1>Working with Network File Shares and Permissions</h1>
 This tutorial outlines sharing resources over the network and creating file shares to allow Read, Write, or Deny access to individual users or groups.<br />
 
 
